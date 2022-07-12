@@ -1,4 +1,4 @@
-### Hi there friends 👋
+### I am Velu ! 👋
 
 <!--
 **velayudhann/velayudhann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
