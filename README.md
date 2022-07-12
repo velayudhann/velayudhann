@@ -1,4 +1,5 @@
 ### Hi there 👋, I am Velu!
+![My GitHub Profile image](C:\Users\52298439\Downloads\Velu-3)
 
 <!--
 **velayudhann/velayudhann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
